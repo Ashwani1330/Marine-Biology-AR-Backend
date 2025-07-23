@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Dumbo Octopus",
+    "description": "A deep-sea octopus known for its ear-like fins that resemble Dumbo the elephant.",
+    "category": "Cephalopod",
+    "model_url": "http://localhost:8080/uploads/Dumbo_Low.fbx",
+    "thumbnail_url": "http://localhost:8080/uploads/Dumbo_Low.jpeg",
+    "created_at": "2025-07-23T10:00:00Z"
+  }
+]
