@@ -7,5 +7,15 @@
     "model_url": "http://localhost:8080/uploads/Dumbo_Low.fbx",
     "thumbnail_url": "http://localhost:8080/uploads/Dumbo_Low.jpeg",
     "created_at": "2025-07-23T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Seahorse",
+    "description": "A small marine fish with a horse-like head and curled tail, known for its unique reproductive behavior.",
+    "category": "Fish",
+    "model_url": "http://localhost:8080/uploads/Seahorse.glb",
+    "thumbnail_url": "http://localhost:8080/uploads/Seahorse.jpg",
+    "created_at": "2025-07-24T12:00:00Z"
   }
 ]
+

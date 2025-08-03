@@ -15,5 +15,7 @@ func SetupRouter() *gin.Engine {
 	// API route
 	r.GET("/api/models", controllers.GetModels)
 
+	r.GET("/api/model", controllers.GetModelByID)
+
 	return r
 }
